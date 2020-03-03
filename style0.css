@@ -233,6 +233,7 @@ body {
 }
 
 .trends {
+  max-width: 350px;
   height: 518px;
   display: grid;
   border-radius: 14px;
@@ -315,6 +316,7 @@ body {
 }
 
 .who_follow {
+  max-width: 350px;
   height: 305px;
   display: grid;
   border-radius: 14px;
