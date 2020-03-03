@@ -227,6 +227,7 @@ body {
 }
 
 .busca:focus {
+  outline: none;
   border: solid 1px var(--blue-icon);
   background-color: var(--background);
 }
